@@ -45,8 +45,8 @@ Video presenting the features the Project</a>
 # 📖 [To-do-list] <a name="about-project"></a>
 
 
-**[To-do-list]** is simple web application to have a record of daily 
-activities, it is inteded to be an exercise for the use of modules and webpack
+**[To-do-list-copy]** is simple web application to have a record of daily 
+activities, it is inteded to be an exercise for the use of modules and webpack, and to practice reviews
 
 ## 🛠 Built With <a name="HTML/CSS and Javascript"></a>
 
@@ -81,7 +81,7 @@ and dependencies of the project
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://edahigure.github.io/to-do-list/dist/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
